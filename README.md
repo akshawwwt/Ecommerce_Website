@@ -1,4 +1,4 @@
-# LUXE - Premium Fashion E-Commerce Web App
+# Codynn Clothing - Premium Fashion E-Commerce Web App
 
 A modern, responsive e-commerce website for a premium fashion brand.  
 Browse curated collections, add items to your cart, and experience a seamless checkout flow.
